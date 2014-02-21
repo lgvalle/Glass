@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Sample 3</string>
+
+    <!-- Sample 3 -->
+    <string name="trigger_command">Example Three</string>
+    <string name="op1">Accion 1</string>
+    <string name="op2">Accion 2</string>
+    <string name="op3">Accion 3</string>
+
+</resources>
